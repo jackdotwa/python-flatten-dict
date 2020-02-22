@@ -1,6 +1,6 @@
 # python-flatten-dict
 
-![](https://github.com/jackdotwa/python-flatten-dict/workflows/pythonpackage/badge.svg)
+![Python package](https://github.com/jackdotwa/python-flatten-dict/workflows/Python%20package/badge.svg)
 
 Light-weight utility to flatten a nested json-like dictionary in python. For example:
 
