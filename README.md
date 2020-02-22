@@ -1,5 +1,7 @@
 # python-flatten-dict
 
+https://github.com/jackdotwa/python-flatten-dict/workflows/pythonpackage>/badge.svg
+
 Light-weight utility to flatten a nested json-like dictionary in python. For example:
 
 ```json
